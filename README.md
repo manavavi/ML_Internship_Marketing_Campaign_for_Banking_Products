@@ -29,3 +29,15 @@ This is classification problem. We can solve this problem using following steps:
 9. Building various other classification Algorithms and its comparison
 
 10. Business Understanding of this Model
+
+# Result
+<img width="496" alt="image" src="https://github.com/manavavi/ML/assets/8547541/13c684b2-d096-48f7-9212-9998e73a7ddd">
+
+# Business Understanding of this Model
+There are various positive aspects of this Machine Learning Model.
+
+1. It will be helpful in targeting the particular customer.
+2. It will be helpful in minimize the unneccessary spending on less valuable things.
+3. It will also helpful in more accuracy while predicting the customer.
+
+This model not only useful in this type of sector but also we can use another sectors just by changing data and some code. This is very helpful to increase the growth of the business.
